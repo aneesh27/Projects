@@ -9,7 +9,7 @@ pay3=0
 pay4=0
 pay5=0
 
-for i in range (1,4):
+for i in range (1,31):
     emp_name = input("Enter Your Name: ")
     emp_num = int(input("Enter Number: "))
     hrs = int(input("Enter Number of hours worked: "))
